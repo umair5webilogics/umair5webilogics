@@ -50,20 +50,24 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
 ### Cloud 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![PythonAnywhere](https://camo.githubusercontent.com/e94b722acc93d1d0dd9bf7bbabfacd5aba06e2d64a902c91d8516dcddcd5d3f9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e616e7977686572652d2532333246394644372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e616e797768657265266c6f676f436f6c6f723d313531353135)
+
 ### OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Mac OS](https://camo.githubusercontent.com/02ad0a4530e3be8b708a7793a641add82aa4df8dd9987cc50d5c38ba609ea382/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61632532306f732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d61636f73266c6f676f436f6c6f723d463046304630)
+
 ### IDEs
 ![VS COde](https://camo.githubusercontent.com/998382ebc9a32162128b00b597ea488192df024fd015e5edec001fe29fcb93a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
 ![Jupyter](https://camo.githubusercontent.com/c044ae9d0419850e7f2385c22ea5de56e101e6a616789bd35d2d8fa137a63642/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a7570797465722d2532334641304630302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a757079746572266c6f676f436f6c6f723d7768697465)
 ![Pycharm](https://camo.githubusercontent.com/74f65e93421cf73232900b1b8662759462e1e69542bec33734cbfd69c88cffc6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7079636861726d2d3134333f7374796c653d666f722d7468652d6261646765266c6f676f3d7079636861726d266c6f676f436f6c6f723d626c61636b26636f6c6f723d626c61636b266c6162656c436f6c6f723d677265656e)
 ![Spyder](https://camo.githubusercontent.com/2b04e8049a8e0e9d114cd4568ff383df525804d8af6014a492bf7ac08ef52b29/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5370796465722d3833383438353f7374796c653d666f722d7468652d6261646765266c6f676f3d737079646572253230696465266c6f676f436f6c6f723d6d61726f6f6e)
+
 ### Design
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
